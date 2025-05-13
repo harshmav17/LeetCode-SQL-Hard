@@ -19,9 +19,10 @@ Write an SQL query to find the median salary for each company. The median is def
 
 Return the `id`, `company`, and `salary` of the employee(s) who hold the median salary/salaries.
 
-### Example Input:
+### 📥 Example Input and 📤 Output:
 
 ```text
+Input:
 +----+---------+--------+
 | id | company | salary |
 +----+---------+--------+
@@ -44,10 +45,7 @@ Return the `id`, `company`, and `salary` of the employee(s) who hold the median 
 | 17 | C       | 65     |
 +----+---------+--------+
 
-### sample output:
-
-```text
-
+Output:
 +----+---------+--------+
 | id | company | salary |
 +----+---------+--------+
@@ -57,5 +55,3 @@ Return the `id`, `company`, and `salary` of the employee(s) who hold the median 
 | 9  | B       | 1154   |
 | 14 | C       | 2645   |
 +----+---------+--------+
-
-
