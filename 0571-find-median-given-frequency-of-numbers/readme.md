@@ -13,9 +13,11 @@ Each row in the table represents a number (`num`) and its frequency (`frequency`
 
 Your task is to compute the **median** of all numbers after decompressing the table.
 
-### Example Input
+<p><strong class="example">Example 1:</strong></p>
 
-```text
+<pre>
+<strong>Input:</strong> 
+Stadium table:
 +-----+-----------+
 | num | frequency |
 +-----+-----------+
@@ -25,11 +27,10 @@ Your task is to compute the **median** of all numbers after decompressing the ta
 | 3   | 1         |
 +-----+-----------+
 
-### Example Output
+<strong>Output:</strong> 
 
-```text
 +---------+
 | median  |
 +---------+
 | 0.0     |
-+---------+
++---------+ 
